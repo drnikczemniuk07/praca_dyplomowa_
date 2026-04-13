@@ -1,6 +1,6 @@
 # praca_dyplomowa-
 Tutuaj znajdują sie materiały mojej pracy dypolomowej. 
-# DJ Audio Recommendation System 🎧
+# DJ Audio Recommendation System 
 
 ## Opis
 
@@ -39,4 +39,4 @@ python3 cli.py delete song.mp3
 
 ## Autor
 
-[Twoje imię]
+Mikołaj Malinowski 
